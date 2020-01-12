@@ -44,4 +44,3 @@ puts "input a number you want to square"
 num1 = gets.chomp
 num1 = num1.to_f * num1.to_f
 puts "The square of the number you chose is " + num1.to_s
-

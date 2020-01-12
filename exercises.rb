@@ -106,7 +106,3 @@ a = ['white snow', 'winter wonderland', 'melting ice',
 b = a.map { |x| x.split(" ") }
 b.flatten!
 p b
-
-
-
-
