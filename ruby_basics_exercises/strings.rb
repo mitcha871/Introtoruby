@@ -53,4 +53,3 @@ def are_you_there
   puts colors.include? "yellow"
   puts colors.include? "purple"
 end
-are_you_there
